@@ -25,3 +25,19 @@
 .payment__details {
   flex: 0.8;
 }
+.payment__details form {
+  width: 400px;
+}
+.payment__details h3 {
+  padding-bottom: 20px;
+}
+.payment__details form div button {
+  margin-top: 10px;
+  background-color: #f0c14b;
+  border: solid 1px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  height: 30px;
+  width: 100%;
+  font-weight: bolder;
+}
